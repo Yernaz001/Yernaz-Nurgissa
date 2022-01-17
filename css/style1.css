@@ -1,0 +1,108 @@
+body{
+margin: 0;
+background: url("../img/фон.jpg");
+font-size: 18px;
+font-family: Tahoma;
+line-height: 1.4;
+}
+.card{
+    width:380px;
+    background-color: white;
+    box-shadow: 0 10px 15px #ccc;
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.card-photo{
+  display: block;
+  width: 350px;
+  height: 220px;
+
+  margin: 0 auto;
+}
+.card-title{
+  font-size: 20px;
+  text-align: center;
+  color: #4d2323;
+}
+.card-text{
+  font-size: 14px;
+}
+.card-subtitle{
+  font-size: 18px;
+  color: #415658;
+}
+.card-address{
+  font-size: 15px;
+  color:#050bd6;
+}
+.card-ul{
+  font-style: italic;
+  padding-left: 0;
+  list-style-position: inside;
+}
+
+.form-inline {
+  padding-left: 20px;
+}
+.navbar {
+  color:#fff;
+  padding-bottom: 20px;
+}
+.navbar-brand{
+  padding-left: 30px;
+}
+.nav-item{
+  color: #fff;
+}
+.name-title{
+  font-size: 100px;
+  font-style: normal;
+  text-align: center;
+  margin: 200px auto;
+  margin-bottom: 0;
+  margin: auto;
+  padding-top: 200px;
+  padding-bottom: 20px;
+  color:#7cffcf;
+}
+.paragraph-title{
+  text-align: center;
+  font: 12px;
+  margin-top: 0px;
+  color: #ffffff;
+}
+.title{
+  background:url(../img/it.jpg);
+  background-position: center;
+  background-size: auto;
+  filter: brightness(60%);
+  width: 1600px;
+  height: 650px;
+}
+.cont{
+  text-align: center;
+}
+.finish{
+  background: url(../img/back.jpg);
+  width:1800px;
+  height: 430px;
+}
+.form-group{
+  padding-left: 20px;
+  padding-top: 50px;
+  width: 400px;
+  height: 40px;
+}
+.btn {
+
+  font-size: 15px;
+}
+.text1{
+  padding-left: 20px;
+  font-size: 25px;
+  padding-top: 10px;
+  color: #dee12d;
+}
